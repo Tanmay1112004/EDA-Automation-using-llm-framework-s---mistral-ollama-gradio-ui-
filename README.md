@@ -11,6 +11,8 @@ A fully automated Exploratory Data Analysis (EDA) tool built using **Mistral (vi
 
 ## 🚀 Live Demo
 
+https://b97d83ac1aab270b3b.gradio.live/
+
 🔗 [Try it here]([https://b97d83ac1aab270b3b.gradio.live/](https://github.com/Tanmay1112004/EDA-Automation-using-llm-framework-s---mistral-ollama-gradio-ui-/blob/main/EDA%20Automation%20using%20llm%20framework's%20-%20mistral%2C%20ollama%2C%20gradio%20ui/screen%20shots/Screenshot%202025-07-26%20214938.png))
 
 ---
