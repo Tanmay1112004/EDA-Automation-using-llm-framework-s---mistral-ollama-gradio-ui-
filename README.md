@@ -29,6 +29,10 @@ This simulates how AI-assisted analytics tools will work in real-world data team
 
 ## 🖼 Application Preview
 
+![demo](https://github.com/Tanmay1112004/EDA-Automation-using-llm-framework-s---mistral-ollama-gradio-ui-/blob/main/EDA%20Automation%20using%20llm%20framework's%20-%20mistral%2C%20ollama%2C%20gradio%20ui/screen%20shots/Screenshot%202025-07-26%20214938.png)
+
+![demo](https://github.com/Tanmay1112004/EDA-Automation-using-llm-framework-s---mistral-ollama-gradio-ui-/blob/main/EDA%20Automation%20using%20llm%20framework's%20-%20mistral%2C%20ollama%2C%20gradio%20ui/screen%20shots/Screenshot%202025-07-26%20214955.png)
+
 ![Image](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/gradio-guides/bigquery-dashboard.gif)
 
 ![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/0%2AWuDv8NM6cQfrDh4m.jpeg)
