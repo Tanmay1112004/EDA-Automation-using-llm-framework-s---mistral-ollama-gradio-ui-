@@ -13,6 +13,9 @@ A fully automated Exploratory Data Analysis (EDA) system that combines tradition
 
 ![demo](https://github.com/Tanmay1112004/EDA-Automation-using-llm-framework-s---mistral-ollama-gradio-ui-/blob/main/EDA%20Automation%20using%20llm%20framework's%20-%20mistral%2C%20ollama%2C%20gradio%20ui/screen%20shots/Screenshot%202025-07-26%20214938.png)
 
+![demo](https://github.com/Tanmay1112004/EDA-Automation-using-llm-framework-s---mistral-ollama-gradio-ui-/blob/main/EDA%20Automation%20using%20llm%20framework's%20-%20mistral%2C%20ollama%2C%20gradio%20ui/screen%20shots/Screenshot%202025-07-26%20214955.png)
+
+
 
 This project bridges:
 
