@@ -131,7 +131,7 @@ Display Results in Gradio UI
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com//llm-eda-insight-generator.git
+git clone https://github.com/Tanmay1112004/llm-eda-insight-generator.git
 cd llm-eda-insight-generator
 ```
 
